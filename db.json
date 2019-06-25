@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "message": "test",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2019-06-25T08:17:06.299Z",
-      "id": 1
-    },
-    {
-      "message": "test 2",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-06-25T08:17:28.655Z",
-      "id": 2
-    },
-    {
       "message": "test 3",
       "attention": true,
       "tech": "Some Person",
       "date": "2019-06-25T08:17:38.318Z",
       "id": 3
+    },
+    {
+      "id": 4,
+      "message": "test 1",
+      "attention": false,
+      "tech": "Some Person",
+      "date": "2019-06-25T22:00:08.037Z"
     }
   ],
   "techs": [
