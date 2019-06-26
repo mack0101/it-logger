@@ -1,3 +1,5 @@
+For backend I used `json-server` as a temporary fake backend with basic crud functionallity. I will be building a backend using ExpressJS soon. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
