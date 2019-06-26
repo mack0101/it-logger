@@ -6,9 +6,7 @@ In the project directory, you can run:
 
 ### `npm run dev`
 
-Runs `json-server` as fake backend on port 5000 and development mode on port 3000 concurrently.
-
-
+Runs `json-server` as fake backend on port 5000 and development mode on port 3000 concurrently.<br>
 
 ### `npm start`
 
